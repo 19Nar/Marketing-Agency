@@ -1,0 +1,375 @@
+.aboutJumbotron {
+    background-image: url(../../Images/aboutHeader.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 25vw;
+  }
+  
+  .aboutHeaderTitle {
+    text-align: center;
+    font-size: 90px;
+    color: white;
+    padding-top: 5vw;
+  }
+  
+  .cardContainer {
+    background-color: #fafafa;
+    padding-top: 5vw;
+    padding-bottom: 5vw;
+  }
+  
+  .names {
+    color: #188a95;
+    font-size: 1.5rem !important;
+  }
+  
+  .meetTeam {
+    font-size: 60px !important;
+    color: #ff8b9e;
+    padding-bottom: 5vw;
+  }
+  
+  .jobsHeader {
+    background-image: url(../../Images/jobsHeader.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20vw;
+  }
+  
+  .joinTeam {
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    letter-spacing: 14px;
+    text-indent: 7px;
+    font-size: 2.5rem !important;
+    padding-top: 9vw;
+  }
+  
+  .teamImg {
+    width: 100vw;
+  }
+  
+  .socialExpertRow,
+  .UIRow,
+  .SEORow {
+    height: 30vw;
+    background-color: #fafafa;
+    margin-top: 8vw;
+    padding: 4vw;
+  }
+  
+  .socialExpertRow:hover,
+  .UIRow:hover,
+  .SEORow:hover {
+    background-color: #ffbac6;
+  }
+  
+  .socialPhoto {
+    background-image: url(../../Images/socialmedia.jpg);
+    background-size: cover;
+  }
+  
+  .UIPhoto {
+    background-image: url(../../Images/UI.jpg);
+    background-size: cover;
+  }
+  
+  .SEOPhoto {
+    background-image: url(../../Images/strategy.jpg);
+    background-size: cover;
+  }
+  
+  .socialText,
+  .UIText,
+  .SEOText {
+    padding-top: 5vw;
+    padding-right: 2vw;
+    padding-left: 2vw;
+  }
+  
+  .socialText h3,
+  .UIText h3,
+  .SEOText h3 {
+    color: #188a95;
+  }
+  
+  .socialText p,
+  .UIText p,
+  .SEOText p {
+    font-size: 18px;
+  }
+  
+  .lookingfor {
+    padding-top: 8vw;
+    text-align: center;
+    font-size: 23px;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Roboto, sans-serif;
+    line-height: 1.4;
+  }
+  
+  .section-title h4 {
+    letter-spacing: var(--mainSpacing);
+    text-transform: capitalize;
+    margin-bottom: 1rem;
+  }
+  .section-title div {
+    width: 5rem;
+    height: 5px;
+    margin: 0 auto;
+    background: var(--primaryColor);
+  }
+  
+  /* aboutUs */
+  .aboutUs {
+    padding: 1rem 0;
+    text-align: center;
+  }
+  
+  .aboutUs-center {
+    width: 100vw;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(255px, 1fr));
+    grid-row-gap: 2rem;
+    grid-column-gap: 50px;
+  }
+  .service span {
+    display: inline-block;
+    color: var(--primaryColor);
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+  }
+  .aboutUs h6 {
+    letter-spacing: var(--mainSpacing);
+  }
+  .aboutUs p {
+    width: 80%;
+    margin: 0 auto;
+  }
+  @media screen and (min-width: 992px) {
+    .aboutUs-center {
+      width: 95vw;
+      max-width: 1170px;
+    }
+  }
+  
+  .description {
+    font-size: 20px;
+    padding-bottom: 8vw;
+    padding-top: 5vw;
+  }
+  
+  .about-cards-div {
+    /* display: grid; */
+    grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+    gap: 1rem 1rem;
+  }
+  
+  .about-card {
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px -15px;
+    border-radius: 10px;
+    border: 3px solid rgba(211, 211, 211, 0.397);
+    padding: 0px 0px 10px;
+  }
+  
+  .about-card:hover {
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 20px 30px -10px;
+  }
+  
+  .teamImg {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  @media screen and (max-width: 800px) {
+    .aboutHeaderTitle {
+      padding: unset;
+    }
+  
+    .meetTeam {
+      font-size: 40px !important;
+    }
+  
+    .aboutUs-center {
+      display: inline-block;
+      width: 75vw;
+    }
+    .about-card {
+      margin-bottom: 5vw !important;
+    }
+  
+    .joinTeam {
+      padding-top: 4vw;
+    }
+  
+    .socialText p,
+    .UIText p,
+    .SEOText p {
+      font-size: 15px;
+    }
+  
+    .socialPhoto,
+    .UIPhoto,
+    .SEOPhoto {
+      height: 22vw;
+    }
+  
+    .socialText,
+    .UIText,
+    .SEOText {
+      padding-top: unset;
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    .aboutHeaderTitle {
+      font-size: 60px;
+    }
+  
+    .jumbotron {
+      padding: unset;
+      padding-top: 7vw;
+    }
+  
+    .joinTeam {
+      font-size: 30px !important;
+    }
+  
+    .lookingfor {
+      font-size: 20px;
+    }
+  
+    .socialText p,
+    .UIText p,
+    .SEOText p {
+      font-size: 11px;
+    }
+  
+    .socialText h3,
+    .UIText h3,
+    .SEOText h3 {
+      font-size: 18px;
+    }
+  
+    .socialPhoto,
+    .UIPhoto,
+    .SEOPhoto {
+      height: 25vw;
+    }
+  
+    .socialText,
+    .UIText,
+    .SEOText {
+      padding-top: unset;
+    }
+  }
+  
+  @media screen and (max-width: 414px) {
+    .aboutHeaderTitle {
+      font-size: 40px;
+    }
+  
+    .aboutUs p {
+      font-size: 15px;
+    }
+  
+    .aboutUs {
+      padding: unset;
+      margin: unset;
+    }
+  
+    .joinTeam {
+      font-size: 16px !important;
+    }
+  
+    .lookingfor {
+      font-size: 14px;
+    }
+  
+    .socialText p,
+    .UIText p,
+    .SEOText p {
+      font-size: 9px;
+    }
+  
+    .socialText h3,
+    .UIText h3,
+    .SEOText h3 {
+      font-size: 12px;
+    }
+  
+    .socialPhoto,
+    .UIPhoto,
+    .SEOPhoto {
+      height: 25vw;
+    }
+  
+    .socialExpertRow,
+    .UIRow,
+    .SEORow {
+      height: 33vw;
+    }
+  }
+  
+  @media screen and (max-width: 375px) {
+    .joinTeam {
+      font-size: 14px !important;
+    }
+  
+    .lookingfor {
+      font-size: 12px;
+    }
+  
+    .socialText p,
+    .UIText p,
+    .SEOText p {
+      font-size: 8px;
+    }
+  
+    .socialText h3,
+    .UIText h3,
+    .SEOText h3 {
+      font-size: 10px;
+    }
+  }
+  
+  @media screen and (max-width: 360px) {
+    .socialText p,
+    .UIText p,
+    .SEOText p {
+      font-size: 7px;
+    }
+  
+    .socialText h3,
+    .UIText h3,
+    .SEOText h3 {
+      font-size: 11px;
+    }
+  
+    .meetTeam {
+      font-size: 30px !important;
+    }
+  
+    .names {
+      font-size: 20px !important;
+    }
+  
+    .info {
+      font-size: 14px !important;
+    }
+  
+    .teamImg {
+      width: 75vw;
+      padding: 3vw;
+    }
+  }

@@ -1,0 +1,674 @@
+.jumbo {
+    background-image: url("../../Images/MOJO-header.png");
+    height: 50vw !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 5em;
+  }
+  
+  .aboutSection {
+    background-image: url(../../Images/HP-about.png);
+    background-size: cover;
+    background-position: center;
+    height: 50vw !important;
+    background-repeat: no-repeat;
+  }
+  
+  .about {
+    background-color: #ff8b9e;
+    width: 30vw;
+    height: 30vw;
+    margin-right: 45vw;
+    margin-top: 5vw;
+    z-index: 1;
+  }
+  
+  .servicesSection {
+    background-image: url(../../Images/HP-services.png);
+    background-size: cover;
+    height: 50vw !important;
+    background-repeat: no-repeat;
+  }
+  
+  h1 {
+    font-family: "Roboto", sans-serif;
+    font-size: 70px;
+  }
+  
+  .headerTitle {
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    letter-spacing: 14px;
+    text-indent: 7px;
+    font-size: 8rem !important;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 7vw;
+  }
+  
+  .aboutUsTitle {
+    color: white;
+    padding-top: 12%;
+    text-align: left;
+    padding-left: 2vw;
+    padding-right: 2vw;
+  }
+  
+  .aboutUsText {
+    padding-right: 2vw;
+    text-align: left;
+    padding-left: 2vw;
+    padding-top: 2%;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    margin-bottom: 5em;
+  }
+  
+  .servicesTitle {
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: white;
+  }
+  
+  .servicesCards {
+    text-align: center;
+    width: 100%;
+    margin-top: 3em;
+  }
+  
+  .HPLinks {
+    text-align: center;
+  }
+  
+  .link {
+    color: #ff8b9e;
+    margin: 2%;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: bolder;
+    padding-bottom: 4em;
+  }
+  
+  .link:hover {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .testimonialSection {
+    background-image: url(../../Images/HP-testimonials.png);
+    background-size: cover;
+    height: 60vw !important;
+    background-repeat: no-repeat;
+    margin-bottom: 7em;
+  }
+  
+  .testimonialTitle {
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: #188a95;
+  }
+  
+  .hpserv {
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    padding-top: 2vw;
+  }
+  
+  .servicesImg {
+    width: 15vw;
+    height: 15vw;
+  }
+  
+  .services {
+    display: flex;
+    align-items: center !important;
+    padding-left: 5vw;
+    padding-right: 5vw;
+  }
+  
+  .serviceImgWrap {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .servBtn {
+    text-align: center;
+    margin-top: 5vw;
+    background-color: #188a95 !important;
+    color: white;
+    border: 1px solid #188a95;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+  }
+  
+  .testBtn {
+    text-align: center;
+    color: #188a95;
+    border: 1px solid #188a95;
+    font-family: "Roboto", sans-serif;
+    background-color: unset !important;
+  }
+  
+  .testBtn:hover {
+    background-color: #188a95 !important;
+    color: white;
+    border: unset;
+  }
+  
+  @media screen and (max-width: 1920px) {
+    .headerTitle {
+      font-size: 11rem !important;
+    }
+  
+    .HPLinks {
+      font-size: 5rem;
+    }
+  
+    .link {
+      font-size: 20px;
+      padding-bottom: 7em;
+    }
+  
+    .aboutUsTitle {
+      font-size: 85px;
+    }
+  
+    .aboutUsText {
+      font-size: 25px;
+      margin-bottom: 5em;
+    }
+  
+    .servicesCards {
+      text-align: center;
+      width: 100%;
+      margin-top: 3em;
+      margin-bottom: 2em;
+    }
+  }
+  
+  @media screen and (max-width: 1440px) {
+    .headerTitle {
+      font-size: 8rem !important;
+    }
+  
+    .HPLinks {
+      font-size: 4rem;
+    }
+  
+    .link {
+      font-size: 18px;
+    }
+  
+    .aboutUsTitle {
+      font-size: 60px;
+    }
+  
+    .aboutUsText {
+      font-size: 18px;
+      margin-bottom: 5em;
+    }
+    .servicesCards {
+      text-align: center;
+      width: 100%;
+      margin-top: 3em;
+      margin-bottom: 2em;
+    }
+  }
+  
+  @media screen and (max-width: 1280px) {
+    .headerTitle {
+      font-size: 7rem !important;
+    }
+  
+    .HPLinks {
+      font-size: 3rem;
+    }
+  
+    .link {
+      font-size: 16px;
+    }
+  
+    .aboutUsTitle {
+      font-size: 55px;
+    }
+  
+    .aboutUsText {
+      font-size: 16px;
+      margin-bottom: 5em;
+    }
+  
+    .servicesCards {
+      text-align: center;
+      width: 100%;
+      margin-top: 3em;
+      margin-bottom: 2em;
+    }
+  }
+  
+  @media screen and (max-width: 1024px) {
+    .headerTitle {
+      font-size: 5rem !important;
+    }
+  
+    .HPLinks {
+      font-size: 2rem;
+    }
+  
+    .link {
+      font-size: 14px;
+    }
+  
+    .aboutUsTitle,
+    .servicesTitle,
+    .testimonialTitle {
+      font-size: 40px;
+    }
+  
+    .aboutUsText {
+      font-size: 14px;
+      margin-bottom: 5em;
+    }
+  
+    .hpserv {
+      font-size: 25px;
+    }
+  
+    .servBtn {
+      font-size: 16px;
+      margin-bottom: 7em;
+    }
+  
+    .btn:not(:disabled):not(.disabled) {
+      cursor: pointer;
+      margin-bottom: 5em;
+    }
+  
+    .testimonialSection {
+      height: 65vw !important;
+    }
+  
+    .card-text {
+      font-size: 14px;
+    }
+  
+    .cardOverlay {
+      width: 15rem !important;
+    }
+  
+    .servicesCards {
+      text-align: center;
+      width: 100%;
+      margin-top: 3em;
+      margin-bottom: 2em;
+    }
+  }
+  
+  @media screen and (max-width: 800px) {
+    .headerTitle {
+      font-size: 4rem !important;
+    }
+  
+    .HPLinks {
+      font-size: 2rem;
+    }
+  
+    .btn:not(:disabled):not(.disabled) {
+      cursor: pointer;
+      margin-bottom: 5em;
+    }
+  
+    .link {
+      font-size: 12px;
+    }
+  
+    .aboutUsTitle,
+    .servicesTitle,
+    .testimonialTitle {
+      font-size: 30px;
+    }
+  
+    .aboutUsText {
+      font-size: 11px;
+      margin-bottom: 5em;
+    }
+  
+    .hpserv {
+      font-size: 15px;
+    }
+  
+    .servicesSection {
+      height: 90vw !important;
+    }
+  
+    .servBtn {
+      font-size: 14px;
+    }
+  
+    .testimonialSection {
+      height: 70vw !important;
+    }
+  
+    .card-text {
+      font-size: 12px;
+    }
+  
+    .cardOverlay {
+      width: 13rem !important;
+    }
+    .servicesCards {
+      text-align: center;
+      width: 100%;
+      margin-top: 3em;
+      margin-bottom: 2em;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .headerTitle {
+      font-size: 4rem !important;
+    }
+  
+    .HPLinks {
+      font-size: 2rem;
+    }
+  
+    .link {
+      font-size: 12px;
+    }
+  
+    .aboutUsTitle,
+    .servicesTitle,
+    .testimonialTitle {
+      font-size: 30px;
+    }
+  
+    .aboutUsText {
+      font-size: 11px;
+      margin-bottom: 5em;
+    }
+  
+    .hpserv {
+      font-size: 15px;
+    }
+  
+    .btn:not(:disabled):not(.disabled) {
+      cursor: pointer;
+      margin-bottom: 5em;
+    }
+    .servicesSection {
+      height: 90vw !important;
+    }
+  
+    .servBtn {
+      font-size: 14px;
+    }
+  
+    .testimonialSection {
+      height: 70vw !important;
+    }
+  
+    .card-text {
+      font-size: 12px;
+    }
+  
+    .cardOverlay {
+      width: 13rem !important;
+    }
+    .servicesCards {
+      text-align: center;
+      width: 100%;
+      margin-top: 3em;
+      margin-bottom: 2em;
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    .headerTitle {
+      font-size: 2.5rem !important;
+    }
+  
+    .HPLinks {
+      font-size: 1.5rem;
+    }
+  
+    .btn:not(:disabled):not(.disabled) {
+      cursor: pointer;
+      margin-bottom: 5em;
+    }
+  
+    .link {
+      font-size: 10px;
+    }
+  
+    .aboutUsTitle,
+    .servicesTitle,
+    .testimonialTitle {
+      font-size: 22px;
+    }
+  
+    .aboutUsText {
+      font-size: 7px;
+      margin-bottom: 5em;
+    }
+  
+    .hpserv {
+      font-size: 14px;
+    }
+  
+    .servicesSection {
+      height: 93vw !important;
+    }
+  
+    .servBtn {
+      font-size: 13px;
+    }
+  
+    .testimonialSection {
+      height: 85vw !important;
+    }
+  
+    .card-text {
+      font-size: 10px;
+    }
+  
+    .cardOverlay {
+      width: 9rem !important;
+    }
+    
+  .servicesCards {
+    text-align: center;
+    width: 100%;
+    margin-top: 3em;
+    margin-bottom: 2em;
+  }
+  }
+  
+  @media screen and (max-width: 414px) {
+    .headerTitle {
+      font-size: 2rem !important;
+    }
+  
+    .HPLinks {
+      font-size: 1rem;
+    }
+  
+    .link {
+      font-size: 8px;
+    }
+  
+    .btn:not(:disabled):not(.disabled) {
+      cursor: pointer;
+      margin-bottom: 5em;
+    }
+  
+    .aboutUsTitle,
+    .servicesTitle,
+    .testimonialTitle {
+      font-size: 24px;
+    }
+  
+    .aboutSection {
+      background-image: unset;
+      height: 70vw !important;
+    }
+    .about {
+      width: 60vw;
+      height: 60vw;
+      margin: 0 auto;
+    }
+  
+    .aboutUsText {
+      font-size: 11px;
+      margin-bottom: 5em;
+    }
+  
+    .servicesImg {
+      width: 35vw;
+      height: 35vw;
+    }
+  
+    .hpserv {
+      font-size: 14px;
+    }
+  
+    .servicesSection {
+      height: 170vw !important;
+    }
+  
+    .servBtn {
+      font-size: 13px;
+    }
+  
+    .testimonialSection {
+      height: auto !important;
+      background-size: initial;
+      background-size: initial;
+    }
+  
+    .card-text {
+      font-size: 10px;
+    }
+  
+    .cardOverlay {
+      width: 10rem !important;
+      margin: 2vw;
+    }
+  
+    .servicesCards {
+      text-align: center;
+      width: 100%;
+      margin-top: 3em;
+      margin-bottom: 2em;
+    }
+  }
+  
+  @media screen and (max-width: 375px) {
+    .headerTitle {
+      font-size: 1.5rem !important;
+    }
+  
+  .aboutUsText {
+    font-size: 11px;
+    margin-bottom: 5em;
+  }
+  
+  .btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    margin-bottom: 5em;
+  }
+  
+  .servicesCards {
+    text-align: center;
+    width: 100%;
+    margin-top: 3em;
+    margin-bottom: 2em;
+  }
+  }
+  
+  @media screen and (max-width: 360px) {
+    .headerTitle {
+      font-size: 1.5rem !important;
+    }
+  
+    .link {
+      font-size: 8px;
+    }
+  
+    .aboutUsTitle,
+    .servicesTitle,
+    .testimonialTitle {
+      font-size: 24px;
+    }
+  
+    .aboutSection {
+      background-image: unset;
+      height: 70vw !important;
+    }
+    .about {
+      width: 60vw;
+      height: 60vw;
+      margin: 0 auto;
+    }
+  
+    .aboutUsText {
+      font-size: 10px;
+      margin-bottom: 5em;
+    }
+  
+    .servicesImg {
+      width: 35vw;
+      height: 35vw;
+    }
+  
+    .hpserv {
+      font-size: 14px;
+    }
+  
+    .servicesSection {
+      height: 170vw !important;
+    }
+  
+    .servBtn {
+      font-size: 12px;
+    }
+  
+    .testimonialSection {
+      height: auto !important;
+      background-image: unset;
+    }
+  
+    .card-text {
+      font-size: 10px;
+    }
+  
+    .cardOverlay {
+      width: 10rem !important;
+      margin: 2vw;
+    }
+    .btn:not(:disabled):not(.disabled) {
+      cursor: pointer;
+      margin-bottom: 5em;
+    }
+    
+    .servicesCards {
+      text-align: center;
+      width: 100%;
+      margin-top: 3em;
+      margin-bottom: 2em;
+    }
+  }
+  
+  

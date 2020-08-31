@@ -1,0 +1,82 @@
+.card-text {
+  font-family: "Roboto", sans-serif;
+  text-align: justify;
+  margin: 0rem;
+  font-weight: 300 !important;
+  color: black !important;
+}
+
+button {
+  width: 0.2rem;
+  height: 0.2rem;
+  background-color: transparent;
+  border: transparent;
+}
+
+.next img {
+  width: 3.5rem;
+  height: 3.5rem;
+}
+
+.prev img {
+  width: 3.5rem;
+  height: 3.5rem;
+  border-style: hidden;
+}
+
+button:focus {
+  outline: 0px;
+}
+
+li {
+  color: white;
+  list-style: none;
+  font-size: 17px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.servCardTitle {
+  font-family: "Roboto", sans-serif;
+  color: #158994;
+  text-transform: uppercase;
+  font-size: 25px;
+  padding-top: 3vw;
+  padding-bottom: 1vw;
+  text-align: left;
+}
+
+.cardul {
+  padding-top: 2vw;
+}
+
+.test {
+  width: 100%;
+}
+
+@media screen and (max-width: 1440px) {
+  
+}
+@media screen and (max-width: 1280px) {
+  
+}
+
+@media screen and (max-width: 1024px) {
+  
+}
+
+@media screen and (max-width: 800px) {
+  
+}
+
+@media screen and (max-width: 768px) {
+  
+}
+
+@media screen and (max-width: 600px) {
+ 
+}
+
+@media screen and (max-width: 360px) {
+  
+}

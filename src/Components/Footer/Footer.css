@@ -1,0 +1,38 @@
+.foot {
+  background-color: white;
+  position: relative;
+  padding: 0.5em;
+  text-decoration: none;
+  width: 100%;
+}
+
+.footer a {
+  color: #158994 !important;
+  margin-left: 45%;
+}
+
+.footer a:hover {
+  color: grey;
+}
+
+.footer1 a img {
+  width: 2.8rem;
+  margin-right: 1em;
+  margin-top: 1em;
+  border-radius: 3rem;
+}
+
+.footerP {
+  margin-top: 1rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  color: #158994 !important;
+}
+
+.footer3 a {
+  color: #158994 !important;
+}
+
+.footer3 a:hover {
+  color: grey;
+}

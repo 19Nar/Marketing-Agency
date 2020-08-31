@@ -1,0 +1,303 @@
+.brand img {
+  width: 40vw;
+  height: auto;
+  border-radius: 0.75rem;
+}
+
+.servicesHeaderImg {
+  width: 800px;
+  height: 220px;
+  margin-bottom: 13rem;
+}
+
+.gif img {
+  margin-bottom: 1rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
+
+.text {
+  color: black !important;
+  text-align: center;
+  margin-top: 0.85rem;
+}
+
+.services {
+  padding: 0.2rem;
+}
+
+.branding {
+  margin-top: 3rem;
+}
+
+.descriptionServices {
+  text-align: justify;
+  color: black !important;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+}
+
+.servicesPageSub {
+  font-family: "Roboto", sans-serif;
+  color: #158994;
+  text-transform: uppercase;
+  font-size: 40px;
+  padding-top: 5vw;
+  padding-bottom: 1vw;
+  text-align: left;
+}
+
+.servicesPageBold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  padding-bottom: 2vw;
+  margin-left: 3vw;
+}
+
+.marketing img {
+  width: 308px;
+  height: 308px;
+  padding: 0.2rem;
+  margin-bottom: 3rem;
+}
+
+.development img {
+  width: 308px;
+  height: 308px;
+  padding: 0.2rem;
+  margin-bottom: 5rem;
+}
+
+.strategy img {
+  width: 308px;
+  height: 308px;
+  padding: 0.2rem;
+  margin-bottom: 1rem;
+}
+
+.marketing {
+  background-color: #158994;
+  height: 308px;
+  width: 370px;
+  color: black;
+  margin-bottom: 1rem;
+}
+
+.development {
+  background-color: #ff8b9e;
+  height: 308px;
+  width: 370px;
+  color: black;
+  margin-bottom: 1rem;
+}
+
+.strategy {
+  background-color: #158994;
+  height: 308px;
+  width: 370px;
+  color: black;
+  margin-bottom: 1rem;
+}
+
+.approachDiv {
+  background-color: #fafafa;
+  padding-bottom: 5vw;
+}
+
+.servicesBDiv {
+  padding-bottom: 5vw;
+}
+
+.ourServ {
+  padding-bottom: 3vw;
+}
+
+.slot {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  font-size: 2.5em !important;
+  color: #ff8b9e;
+  text-align: center;
+  padding: 5vw;
+}
+
+.endPart {
+  width: 100vw;
+  height: 10vw;
+  background-color: #ff8b9e;
+}
+
+@media screen and (max-width: 1024px) {
+  .servicesHeaderImg {
+    width: 600px;
+    height: 160px;
+    margin-top: 8rem;
+  }
+}
+
+.brand img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.75rem;
+}
+
+.gif img {
+  margin-bottom: 1rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+  .servicesHeaderImg {
+    width: 450px;
+    height: 120px;
+    margin-top: 8rem;
+    margin-bottom: 15rem;
+  }
+
+  .servicesPageSub {
+    padding-bottom: 4vw !important;
+  }
+
+  .descriptionServices {
+    font-size: 14px;
+  }
+
+  .descriptionServicesVid {
+    padding-top: 6vw;
+  }
+}
+
+.brand img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.75rem;
+}
+
+.gif img {
+  margin-bottom: 1rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .servicesHeaderImg {
+    width: 350px;
+    height: 90px;
+    margin-top: 7rem;
+  }
+
+  .servicesPageSub {
+    padding-bottom: 4vw !important;
+  }
+}
+
+.brand img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.75rem;
+}
+
+.gif img {
+  margin-bottom: 1rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+  .servicesHeaderImg {
+    width: 350px;
+    height: 90px;
+    margin-top: 7rem;
+  }
+
+  .servicesPageSub {
+    padding-bottom: 4vw !important;
+  }
+
+  .descriptionServices {
+    font-size: 14px;
+  }
+
+  .descriptionServicesVid {
+    padding-top: 6vw;
+  }
+}
+
+.brand img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.75rem;
+}
+
+.gif img {
+  margin-bottom: 1rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+@media screen and (max-width: 414px) {
+  .servicesHeaderImg {
+    padding: unset;
+  }
+
+  .servicesPageSub {
+    padding-bottom: 4vw !important;
+    font-size: 25px !important;
+  }
+
+  .descriptionServices {
+    font-size: 12px;
+  }
+
+  .brand img {
+    width: 100%;
+    height: auto;
+    border-radius: 0.75rem;
+  }
+
+  .slot {
+    font-size: 35px;
+  }
+}
+
+.gif img {
+  margin-bottom: 1rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+@media screen and (max-width: 360px) {
+  .marketing {
+    width: 90vw;
+    height: 250px;
+  }
+
+  .marketing img {
+    width: 270px;
+    height: 250px;
+  }
+
+  .next img {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+}
+
+.brand img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.75rem;
+}

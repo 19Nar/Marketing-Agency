@@ -1,0 +1,56 @@
+h2 {
+  color: black;
+}
+
+.video {
+  width: 500px;
+  height: 330px;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.digital {
+  color: black !important;
+  text-align: justify;
+  margin-top: 1.8rem;
+}
+
+.strategiesDiv {
+  background-color: #fafafa;
+  margin-top: 5vw;
+  padding-bottom: 7vw;
+}
+
+.descriptionServicesVid {
+  text-align: justify;
+  color: black !important;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+}
+
+@media screen and (max-width: 1440px) {
+  
+}
+@media screen and (max-width: 1280px) {
+  
+}
+
+@media screen and (max-width: 1024px) {
+  
+}
+
+@media screen and (max-width: 800px) {
+  
+}
+
+@media screen and (max-width: 768px) {
+  
+}
+
+@media screen and (max-width: 600px) {
+ 
+}
+
+@media screen and (max-width: 360px) {
+  
+}
