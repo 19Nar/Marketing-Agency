@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d6f8ae7addd980b978c815cabb99dde",
+    "revision": "c7c03e5829ac8211508214cc65c73b18",
     "url": "/Marketing-Agency/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Marketing-Agency/static/css/2.5a9a206f.chunk.css"
   },
   {
-    "revision": "06bbff5b0587317b3fc7",
-    "url": "/Marketing-Agency/static/css/main.476223f6.chunk.css"
+    "revision": "45f309acfb8cb153bdca",
+    "url": "/Marketing-Agency/static/css/main.bcadc689.chunk.css"
   },
   {
     "revision": "28bd029c0e6da36c87ab",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Marketing-Agency/static/js/2.ebcb69ac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "06bbff5b0587317b3fc7",
+    "revision": "45f309acfb8cb153bdca",
     "url": "/Marketing-Agency/static/js/main.a27bea7b.chunk.js"
   },
   {
