@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Marketing-Agency/static/css/main.476223f6.chunk.css",
-    "main.js": "/Marketing-Agency/static/js/main.4907e03b.chunk.js",
-    "main.js.map": "/Marketing-Agency/static/js/main.4907e03b.chunk.js.map",
+    "main.js": "/Marketing-Agency/static/js/main.a27bea7b.chunk.js",
+    "main.js.map": "/Marketing-Agency/static/js/main.a27bea7b.chunk.js.map",
     "runtime-main.js": "/Marketing-Agency/static/js/runtime-main.30a1cacd.js",
     "runtime-main.js.map": "/Marketing-Agency/static/js/runtime-main.30a1cacd.js.map",
     "static/css/2.5a9a206f.chunk.css": "/Marketing-Agency/static/css/2.5a9a206f.chunk.css",
-    "static/js/2.ac15edf5.chunk.js": "/Marketing-Agency/static/js/2.ac15edf5.chunk.js",
-    "static/js/2.ac15edf5.chunk.js.map": "/Marketing-Agency/static/js/2.ac15edf5.chunk.js.map",
+    "static/js/2.ebcb69ac.chunk.js": "/Marketing-Agency/static/js/2.ebcb69ac.chunk.js",
+    "static/js/2.ebcb69ac.chunk.js.map": "/Marketing-Agency/static/js/2.ebcb69ac.chunk.js.map",
     "index.html": "/Marketing-Agency/index.html",
-    "precache-manifest.3c9331595dcad7f991bd9a29d920b59a.js": "/Marketing-Agency/precache-manifest.3c9331595dcad7f991bd9a29d920b59a.js",
+    "precache-manifest.58e526925f2e1e527ffec9065c1e821a.js": "/Marketing-Agency/precache-manifest.58e526925f2e1e527ffec9065c1e821a.js",
     "service-worker.js": "/Marketing-Agency/service-worker.js",
     "static/css/2.5a9a206f.chunk.css.map": "/Marketing-Agency/static/css/2.5a9a206f.chunk.css.map",
     "static/css/main.476223f6.chunk.css.map": "/Marketing-Agency/static/css/main.476223f6.chunk.css.map",
-    "static/js/2.ac15edf5.chunk.js.LICENSE.txt": "/Marketing-Agency/static/js/2.ac15edf5.chunk.js.LICENSE.txt",
+    "static/js/2.ebcb69ac.chunk.js.LICENSE.txt": "/Marketing-Agency/static/js/2.ebcb69ac.chunk.js.LICENSE.txt",
     "static/media/FirstPage.css": "/Marketing-Agency/static/media/MOJO-header.14fbf139.png",
     "static/media/MOJO-nav.png": "/Marketing-Agency/static/media/MOJO-nav.c8547bd8.png",
     "static/media/MicrosoftTeams-image.jpeg": "/Marketing-Agency/static/media/MicrosoftTeams-image.d484b40e.jpeg",
@@ -37,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.30a1cacd.js",
     "static/css/2.5a9a206f.chunk.css",
-    "static/js/2.ac15edf5.chunk.js",
+    "static/js/2.ebcb69ac.chunk.js",
     "static/css/main.476223f6.chunk.css",
-    "static/js/main.4907e03b.chunk.js"
+    "static/js/main.a27bea7b.chunk.js"
   ]
 }

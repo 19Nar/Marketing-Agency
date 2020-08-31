@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7891ae48f46fd758f9db4f70eb0edf1",
+    "revision": "6d6f8ae7addd980b978c815cabb99dde",
     "url": "/Marketing-Agency/index.html"
   },
   {
-    "revision": "0c2bfa2166801d6821de",
+    "revision": "28bd029c0e6da36c87ab",
     "url": "/Marketing-Agency/static/css/2.5a9a206f.chunk.css"
   },
   {
-    "revision": "791b0c89be1c1ed0ccd4",
+    "revision": "06bbff5b0587317b3fc7",
     "url": "/Marketing-Agency/static/css/main.476223f6.chunk.css"
   },
   {
-    "revision": "0c2bfa2166801d6821de",
-    "url": "/Marketing-Agency/static/js/2.ac15edf5.chunk.js"
+    "revision": "28bd029c0e6da36c87ab",
+    "url": "/Marketing-Agency/static/js/2.ebcb69ac.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/Marketing-Agency/static/js/2.ac15edf5.chunk.js.LICENSE.txt"
+    "url": "/Marketing-Agency/static/js/2.ebcb69ac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "791b0c89be1c1ed0ccd4",
-    "url": "/Marketing-Agency/static/js/main.4907e03b.chunk.js"
+    "revision": "06bbff5b0587317b3fc7",
+    "url": "/Marketing-Agency/static/js/main.a27bea7b.chunk.js"
   },
   {
     "revision": "4c7f33ed4a65e3ff5d3e",
