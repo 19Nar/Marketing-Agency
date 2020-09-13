@@ -40,7 +40,7 @@ const Footer = () => {
             <Col className="contact" xs="12" sm="12" md="3" lg="3" xl="3">
               <span className="footer2">
                 <div className="wrap">
-                  <a href="/contacts">
+                  <a href="/contact">
                     <button className="button">LET'S CONNECT</button>
                   </a>
                 </div>
