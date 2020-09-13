@@ -21,7 +21,7 @@ const Footer = () => {
               <a href="https://www.facebook.com/MOJO-107058004458286">
                 <img src={insta} alt="" />
               </a>
-              <a href="/contacts">
+              <a href="/contact">
                 <img src={call} alt="" />
               </a>
             </Col>
