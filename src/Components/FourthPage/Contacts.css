@@ -50,21 +50,109 @@ button {
 }
 
 @media screen and (max-width: 1920px) {
+  .contactCard {
+    margin: 60px;
+    width: 80%;
+    margin-bottom: 30px;
+    border-radius: 6px;
+    color: rgba(0, 0, 0, 0.87);
+    background: #fff;
+    text-align: center;
+    margin-top: 8vw !important;
+  }
+  
+  .contactHeader {
+    margin: -55px 10px;
+    padding: 25px 10px;
+    background: #ff8b9e;
+    text-align: center;
+    border-radius: 3px;
+    color: white;
+    font-size: 22px;
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+  }
+  
+  .email {
+    margin-top: 70px;
+    margin-left: 8vw;
+  }
+  
+  .name,
+  .message {
+    margin-left: 8vw;
+  }
+  
   .map {
-    width: 380px;
-    height: 450px;
+    width: 500px;
+    height: 477px;
+    margin-top: 6rem;
     border-color: transparent;
     margin-bottom: 4rem;
+  }
+  
+  button {
+    height: unset;
+  }
+  .btnContact {
+    background-color: #158994;
+    margin-bottom: 2vw;
+    margin-top: 1vw;
+    width: auto;
   }
   
 }
 
 @media screen and (max-width: 1440px) {
+  .contactCard {
+    margin: 40px;
+    width: 50%;
+    margin-bottom: 30px;
+    border-radius: 6px;
+    color: rgba(0, 0, 0, 0.87);
+    background: #fff;
+    text-align: center;
+    margin-top: 8vw !important;
+  }
+  
+  .contactHeader {
+    margin: -55px 10px;
+    padding: 25px 10px;
+    background: #ff8b9e;
+    text-align: center;
+    border-radius: 3px;
+    color: white;
+    font-size: 22px;
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+  }
+  
+  .email {
+    margin-top: 70px;
+    margin-left: 8vw;
+  }
+  
+  .name,
+  .message {
+    margin-left: 8vw;
+  }
+  
   .map {
-    width: 380px;
-    height: 450px;
+    width: 400px;
+    height: 477px;
+    margin-top: 6rem;
     border-color: transparent;
     margin-bottom: 4rem;
+  }
+  
+  button {
+    height: unset;
+  }
+  .btnContact {
+    background-color: #158994;
+    margin-bottom: 2vw;
+    margin-top: 1vw;
+    width: auto;
   }
 }
 
@@ -78,29 +166,161 @@ button {
 }
 
 @media screen and (max-width: 1024px) {
+  .contactCard {
+    margin: 60px;
+    width: 60%;
+    margin-bottom: 30px;
+    border-radius: 6px;
+    color: rgba(0, 0, 0, 0.87);
+    background: #fff;
+    text-align: center;
+    margin-top: 8vw !important;
+  }
+  
+  .contactHeader {
+    margin: -55px 10px;
+    padding: 25px 10px;
+    background: #ff8b9e;
+    text-align: center;
+    border-radius: 3px;
+    color: white;
+    font-size: 22px;
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+  }
+  
+  .email {
+    margin-top: 70px;
+    margin-left: 8vw;
+  }
+  
+  .name,
+  .message {
+    margin-left: 8vw;
+  }
+  
   .map {
-    width: 380px;
-    height: 450px;
+    width: 700px;
+    height: 477px;
+    margin-top: 6rem;
     border-color: transparent;
     margin-bottom: 4rem;
+  }
+  
+  button {
+    height: unset;
+  }
+  .btnContact {
+    background-color: #158994;
+    margin-bottom: 2vw;
+    margin-top: 1vw;
+    width: auto;
   }
 }
 
 @media screen and (max-width: 768px) {
+  .contactCard {
+    margin: 60px;
+    width: 100%;
+    margin-bottom: 30px;
+    border-radius: 6px;
+    color: rgba(0, 0, 0, 0.87);
+    background: #fff;
+    text-align: center;
+    margin-top: 8vw !important;
+  }
+  
+  .contactHeader {
+    margin: -55px 10px;
+    padding: 25px 10px;
+    background: #ff8b9e;
+    text-align: center;
+    border-radius: 3px;
+    color: white;
+    font-size: 22px;
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+  }
+  
+  .email {
+    margin-top: 70px;
+    margin-left: 8vw;
+  }
+  
+  .name,
+  .message {
+    margin-left: 8vw;
+  }
+  
   .map {
-    width: 380px;
-    height: 450px;
+    width: 400px;
+    height: 300px;
+    margin-top: 6rem;
     border-color: transparent;
     margin-bottom: 4rem;
+  }
+  
+  button {
+    height: unset;
+  }
+  .btnContact {
+    background-color: #158994;
+    margin-bottom: 2vw;
+    margin-top: 1vw;
+    width: auto;
   }
 }
 
 @media screen and (max-width: 600px) {
+  .contactCard {
+    margin: 60px;
+    width: 100%;
+    margin-bottom: 30px;
+    border-radius: 6px;
+    color: rgba(0, 0, 0, 0.87);
+    background: #fff;
+    text-align: center;
+    margin-top: 8vw !important;
+  }
+  
+  .contactHeader {
+    margin: -55px 10px;
+    padding: 25px 10px;
+    background: #ff8b9e;
+    text-align: center;
+    border-radius: 3px;
+    color: white;
+    font-size: 22px;
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+  }
+  
+  .email {
+    margin-top: 70px;
+    margin-left: 8vw;
+  }
+  
+  .name,
+  .message {
+    margin-left: 8vw;
+  }
+  
   .map {
-    width: 380px;
-    height: 450px;
+    width: 200px;
+    height: 477px;
+    margin-top: 6rem;
     border-color: transparent;
     margin-bottom: 4rem;
+  }
+  
+  button {
+    height: unset;
+  }
+  .btnContact {
+    background-color: #158994;
+    margin-bottom: 2vw;
+    margin-top: 1vw;
+    width: auto;
   }
 }
 
@@ -111,4 +331,58 @@ button {
     border-color: transparent;
     margin-bottom: 4rem;
   }
+}
+
+@media screen and (max-width: 1920px) {
+  .contactCard {
+    margin: 60px;
+    width: 80%;
+    margin-bottom: 30px;
+    border-radius: 6px;
+    color: rgba(0, 0, 0, 0.87);
+    background: #fff;
+    text-align: center;
+    margin-top: 8vw !important;
+  }
+  
+  .contactHeader {
+    margin: -55px 10px;
+    padding: 25px 10px;
+    background: #ff8b9e;
+    text-align: center;
+    border-radius: 3px;
+    color: white;
+    font-size: 22px;
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+  }
+  
+  .email {
+    margin-top: 70px;
+    margin-left: 8vw;
+  }
+  
+  .name,
+  .message {
+    margin-left: 8vw;
+  }
+  
+  .map {
+    width: 500px;
+    height: 477px;
+    margin-top: 6rem;
+    border-color: transparent;
+    margin-bottom: 4rem;
+  }
+  
+  button {
+    height: unset;
+  }
+  .btnContact {
+    background-color: #158994;
+    margin-bottom: 2vw;
+    margin-top: 1vw;
+    width: auto;
+  }
+  
 }

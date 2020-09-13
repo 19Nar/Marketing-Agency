@@ -301,3 +301,51 @@
   height: auto;
   border-radius: 0.75rem;
 }
+
+@media screen and (max-width: 1366px) {
+  .marketing img {
+    width: 900px;
+    height: 600px;
+    padding: 0.2rem;
+    margin-bottom: 3rem;
+  }
+  
+  .development img {
+    width: 900px;
+    height: 600px;
+    padding: 0.2rem;
+    margin-bottom: 5rem;
+  }
+  
+  .strategy img {
+    width: 900px;
+    height: 600px;
+    padding: 0.2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .marketing {
+    background-color: #158994;
+    width: 900px;
+    height: 600px;
+    color: black;
+    margin-bottom: 1rem;
+  }
+  
+  .development {
+    background-color: #ff8b9e;
+    width: 900px;
+    height: 600px;
+    color: black;
+    margin-bottom: 1rem;
+  }
+  
+  .strategy {
+    background-color: #158994;
+    width: 900px;
+    height: 600px;
+    color: black;
+    margin-bottom: 1rem;
+  }
+  
+}

@@ -29,14 +29,29 @@ h2 {
 }
 
 @media screen and (max-width: 1440px) {
-  
+  .video {
+    width: 500px;
+    height: 500px;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
 }
 @media screen and (max-width: 1280px) {
-  
+  .video {
+    width: 500px;
+    height: 500px;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
 }
 
 @media screen and (max-width: 1024px) {
-  
+  .video {
+    width: 700px;
+    height: 500px;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
 }
 
 @media screen and (max-width: 800px) {

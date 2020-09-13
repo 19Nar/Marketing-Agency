@@ -33,18 +33,20 @@
 @media screen and (max-width: 1440px) {
   .bg {
     width: 100vw;
+    height: 50vw;
   }
 }
 
 @media screen and (max-width: 768px) {
   .bg{
-    height: 70vw;
+    width: 110vw;
+    height: 75vw;
   }
 }
 
 @media screen and (max-width: 414px) {
   .bg{
     width: 120vw;
-    height: 80vw;
+    height: 100vw;
   }
 }
