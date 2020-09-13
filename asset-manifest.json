@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Marketing-Agency/static/css/main.bcadc689.chunk.css",
+    "main.css": "/Marketing-Agency/static/css/main.65391cae.chunk.css",
     "main.js": "/Marketing-Agency/static/js/main.a27bea7b.chunk.js",
     "main.js.map": "/Marketing-Agency/static/js/main.a27bea7b.chunk.js.map",
     "runtime-main.js": "/Marketing-Agency/static/js/runtime-main.30a1cacd.js",
@@ -9,10 +9,10 @@
     "static/js/2.ebcb69ac.chunk.js": "/Marketing-Agency/static/js/2.ebcb69ac.chunk.js",
     "static/js/2.ebcb69ac.chunk.js.map": "/Marketing-Agency/static/js/2.ebcb69ac.chunk.js.map",
     "index.html": "/Marketing-Agency/index.html",
-    "precache-manifest.feffdb970976341e073d0e596d5b97d4.js": "/Marketing-Agency/precache-manifest.feffdb970976341e073d0e596d5b97d4.js",
+    "precache-manifest.30c4faffe0ae44260420afcd98ada948.js": "/Marketing-Agency/precache-manifest.30c4faffe0ae44260420afcd98ada948.js",
     "service-worker.js": "/Marketing-Agency/service-worker.js",
     "static/css/2.5a9a206f.chunk.css.map": "/Marketing-Agency/static/css/2.5a9a206f.chunk.css.map",
-    "static/css/main.bcadc689.chunk.css.map": "/Marketing-Agency/static/css/main.bcadc689.chunk.css.map",
+    "static/css/main.65391cae.chunk.css.map": "/Marketing-Agency/static/css/main.65391cae.chunk.css.map",
     "static/js/2.ebcb69ac.chunk.js.LICENSE.txt": "/Marketing-Agency/static/js/2.ebcb69ac.chunk.js.LICENSE.txt",
     "static/media/FirstPage.css": "/Marketing-Agency/static/media/MOJO-header.14fbf139.png",
     "static/media/MOJO-nav.png": "/Marketing-Agency/static/media/MOJO-nav.c8547bd8.png",
@@ -38,7 +38,7 @@
     "static/js/runtime-main.30a1cacd.js",
     "static/css/2.5a9a206f.chunk.css",
     "static/js/2.ebcb69ac.chunk.js",
-    "static/css/main.bcadc689.chunk.css",
+    "static/css/main.65391cae.chunk.css",
     "static/js/main.a27bea7b.chunk.js"
   ]
 }
